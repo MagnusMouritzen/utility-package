@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "displayName": "OK Utility",
   "description": "Commonly used code. Needs https://github.com/mackysoft/Unity-SerializeReferenceExtensions?path=/Assets/MackySoft/MackySoft.SerializeReferenceExtensions to work.",
-  "dependencies": {
-    "com.mackysoft.serializereference-extensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions.git?path=Assets/MackySoft/MackySoft.SerializeReferenceExtensions"
- },
   "author": {
     "name": "Magnus Mouritzen"
   }
