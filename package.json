@@ -2,10 +2,7 @@
   "name": "net.otterknight.utility",
   "version": "0.1.0",
   "displayName": "OK Utility",
-  "description": "Commonly used code.",
-  "dependencies": {
-    "com.mackysoft.serializereference-extensions": "https://github.com/mackysoft/Unity-SerializeReferenceExtensions?path=/Assets/MackySoft/MackySoft.SerializeReferenceExtensions"
- },
+  "description": "Commonly used code. Needs https://github.com/mackysoft/Unity-SerializeReferenceExtensions?path=Assets/MackySoft/MackySoft.SerializeReferenceExtensions to work.",
   "author": {
     "name": "Magnus Mouritzen"
   }
