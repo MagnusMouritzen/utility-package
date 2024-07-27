@@ -1,0 +1,16 @@
+{
+    "name": "OK.Utility.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:f49c878b3cdc92ebb8966fd228b2559e"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
